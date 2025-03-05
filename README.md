@@ -2,6 +2,7 @@
 
 This repo implements the deeplabv3+ training for UECFoodPIX complete dataset.
 And this repository implements the baseline for [FoodSAM: Any Food Segmentation](https://arxiv.org/abs/2308.05938).
+备注：完整报告和项目描述请见 食物识别.ipynb
 
 ## Installation
 a. Create a conda virtual environment and activate it.
